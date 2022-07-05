@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @recurjohn
+- 👀 I’m interested in becoming a stronger full-stack developer
+- 🌱 I’m currently learning with CS50 and the Odin Project
+- 📫 johndanieldomine@gmail.com
