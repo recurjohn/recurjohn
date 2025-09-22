@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @recurjohn
 - 👀 I’m interested in supplementing my design skills with full-stack dev knowledge
 - 🌱 I’m currently learning with CS50 and the Odin Project
-- 📫 hello@johndomine.com
+- 📫 johndominedesign@gmail.com
